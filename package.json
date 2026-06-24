@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -25,3 +26,14 @@
     "typescript": "^5"
   }
 }
+=======
+  "dependencies": {
+    "lucide-react": "^1.21.0",
+    "simple-peer": "^9.11.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3"
+  }
+}
+>>>>>>> 4390510aab09c1db9bdcd7e026fc300518b91c5c
